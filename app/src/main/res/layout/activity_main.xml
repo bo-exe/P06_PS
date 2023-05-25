@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="DBS" />
+        android:text="@string/dbs" />
 
     <TextView
         android:id="@+id/textViewOCBC"
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="OCBC" />
+        android:text="@string/ocbc" />
 
     <TextView
         android:id="@+id/textViewUOB"
@@ -29,5 +29,5 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="UOB" />
+        android:text="@string/uob" />
 </LinearLayout>
